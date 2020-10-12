@@ -1,5 +1,7 @@
 # Android-Trivia-App
-Aplicativo desenvolvido usando android studio. Jogo de perguntas e respostas sobre conteúdo android
+ Jogo de perguntas e respostas sobre conteúdo android.
+ 
+ Aplicativo desenvolvido usando android studio.
 
 Usando:
 
